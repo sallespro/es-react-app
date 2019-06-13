@@ -1,0 +1,14 @@
+{
+  "name": "es-react-template",
+  "version": "1.0.0",
+  "description": "This is a static react app with no bundling",
+  "main": "index.html",
+  "keywords": [
+    "static",
+    "react",
+    "template",
+    "codesandbox"
+  ],
+  "author": "Luke Jackson",
+  "license": "MIT",
+}
